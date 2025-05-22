@@ -1,0 +1,8 @@
+C:\Users\ALUNO\Documents\JoaoMouraCsharp\Vetor\CadastroJogos1945\bin\Debug\CadastroJogos1945.exe.config
+C:\Users\ALUNO\Documents\JoaoMouraCsharp\Vetor\CadastroJogos1945\bin\Debug\CadastroJogos1945.exe
+C:\Users\ALUNO\Documents\JoaoMouraCsharp\Vetor\CadastroJogos1945\bin\Debug\CadastroJogos1945.pdb
+C:\Users\ALUNO\Documents\JoaoMouraCsharp\Vetor\CadastroJogos1945\obj\Debug\CadastroJogos1945.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\JoaoMouraCsharp\Vetor\CadastroJogos1945\obj\Debug\CadastroJogos1945.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\Documents\JoaoMouraCsharp\Vetor\CadastroJogos1945\obj\Debug\CadastroJogos1945.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\JoaoMouraCsharp\Vetor\CadastroJogos1945\obj\Debug\CadastroJogos1945.exe
+C:\Users\ALUNO\Documents\JoaoMouraCsharp\Vetor\CadastroJogos1945\obj\Debug\CadastroJogos1945.pdb
